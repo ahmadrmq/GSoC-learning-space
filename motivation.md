@@ -12,3 +12,5 @@
 
 ## Where I want to go
 <!-- What's your goal with contributing to Mesa? What kind of contributions do you see yourself making? -->
+
+Disclosure: I utilized AI (Gemini) as a collaborative partner to help refine the phrasing of my proposal and structure this repository. All technical logic, architectural decisions, and code implementations are my own original work.
